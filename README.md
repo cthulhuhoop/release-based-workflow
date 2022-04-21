@@ -1,5 +1,8 @@
 Alien Invasion
 ==============
+
+release test
+
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
